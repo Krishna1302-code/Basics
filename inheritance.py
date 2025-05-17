@@ -1,5 +1,5 @@
 '''
-🔹 What is Inheritance?
+🔹 What is Inheritance-
 Inheritance allows a class (called a child or subclass) to acquire the properties and behaviors (methods and attributes) of another class (called a parent or superclass).
 
 🧠 Why use Inheritance?
